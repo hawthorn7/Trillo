@@ -494,6 +494,9 @@ body {
     @media only screen and (max-width: 28.25em) {
       .overview__rating {
         margin-left: auto; } }
+    @media only screen and (max-width: 20em) {
+      .overview__rating {
+        margin-top: -1.6rem; } }
     @media only screen and (max-width: 15em) {
       .overview__rating {
         display: none; } }

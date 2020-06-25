@@ -147,6 +147,10 @@
 			margin-left: auto;
 		}
 
+		@media only screen and (max-width: $bp-320) {
+			margin-top: -1.6rem;
+		}
+
 		@media only screen and (max-width: $bp-240) {
 			display: none;
 		}
